@@ -1,0 +1,29 @@
+{
+    "user": [
+        {
+            "name": "Siva",
+            "location": "kerala",
+            "likes": 64,
+            "description": "Nature",
+            "PostImage": "./Images/image1.jpg",
+            "Date": "11-06-2016"
+            
+        },
+        {
+            "name": "Neeraj",
+            "location": "Tamil Nadu",
+            "likes": 30,
+            "description": "Nature",
+            "PostImage": "./Images/image2.jpg",
+            "Date": "10-06-2016"
+        },
+        {
+            "name": "Rahul",
+            "location": "Bangalore",
+            "likes": 30,
+            "description": "Nature",
+            "PostImage": "./Images/image3.jpg",
+            "Date": "10-06-2016"
+        }
+    ]
+}
